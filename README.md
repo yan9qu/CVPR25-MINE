@@ -4,12 +4,14 @@
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 [![Conference](http://img.shields.io/badge/CVPR-2025-6790AC.svg)](https://cvpr.thecvf.com/)
+[![Dataset](http://img.shields.io/badge/Dataset-6715.svg)](https://drive.google.com/file/d/1tdmHOwanxZLigt7_0c3M3kKYZ2rjSauQ/view?usp=sharing)
 [![Paper](http://img.shields.io/badge/Paper-6720AC.svg)](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Uncertain_Multimodal_Intention_and_Emotion_Understanding_in_the_Wild_CVPR_2025_paper.pdf)
 
 </div>
 
 ## 0. Updates
 - [ ] Code part of BEAR & MAP
+- [x] :cool: (10/21/2025) To facilitate research, we have additionally released the raw data from MINE. You can check it [here](https://drive.google.com/file/d/1tdmHOwanxZLigt7_0c3M3kKYZ2rjSauQ/view?usp=sharing).
 - [x] :satisfied: (06/16/2025) Dataset Released!
 - [x] :blush: (02/27/2025) Paper Accepted!
 
