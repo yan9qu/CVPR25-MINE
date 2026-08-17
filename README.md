@@ -11,7 +11,8 @@
 
 ## 0. Updates
 - [ ] Code part of BEAR & MAP
-- [x] :cool: (10/21/2025) To facilitate research, we have additionally released the raw data from MINE. You can check it [here](https://drive.google.com/file/d/1tdmHOwanxZLigt7_0c3M3kKYZ2rjSauQ/view?usp=sharing).
+- [x] :cool: (10/21/2025) To facilitate research, we have additionally released the raw data from MINE. You can check it [here](https://drive.google.com/file/d/1tdmHOwanxZLigt7_0c3M3kKYZ2rjSauQ/view?usp=sharing). or https://pan.baidu.com/s/1YjAZaduCffGpF0GR6NrCow?pwd=zj79
+- [ ] 
 - [x] :satisfied: (06/16/2025) Dataset Released!
 - [x] :blush: (02/27/2025) Paper Accepted!
 
